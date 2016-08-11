@@ -174,7 +174,7 @@ public class Robot extends IterativeRobot {		//First, sort of "half-declare" you
     	    		myRobot.arcadeDrive(-0.0, -0.5);
     	    	}
     
-    
+    //will anyone ever see this
     	/**
     	//****Approach test ***
     	if(autoLoopCounter < 25){
